@@ -25,10 +25,7 @@ body {
     align-items:center;
  
 }
-.d-block {
-    color: radial-gradient(purple, magenta);
 
-}
 .statistics img{
     z-index: index 5;
     width:580px;
@@ -90,3 +87,8 @@ body {
     font-weight: bold;
     color: white;
 }
+.socials {
+    background-color: #fff;
+    justify-content: space-between;
+}
+
